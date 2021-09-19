@@ -2,4 +2,4 @@
 title: "Welcome to my blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+This is my tutorial regarding the use of Github Pages with Jekyll. I am excited to learn something new in GitHub.
